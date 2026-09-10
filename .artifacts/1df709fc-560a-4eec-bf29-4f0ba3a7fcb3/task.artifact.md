@@ -1,0 +1,3 @@
+- `[x]` Fix ViewPager2 item inflation in ImageAdapter.kt
+- `[x]` Add required permissions to AndroidManifest.xml
+- `[x]` Verify build stability
